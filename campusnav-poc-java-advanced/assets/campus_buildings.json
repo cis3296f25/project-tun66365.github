@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Library",
+    "x": 140,
+    "y": 200,
+    "hint": "Main entrance on Liacouras Walk"
+  },
+  {
+    "name": "Engineering Hall",
+    "x": 420,
+    "y": 280,
+    "hint": "Room 210 for CIS 3296"
+  },
+  {
+    "name": "Student Center",
+    "x": 260,
+    "y": 120,
+    "hint": "Food court and events"
+  }
+]
